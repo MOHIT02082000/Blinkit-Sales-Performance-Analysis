@@ -34,3 +34,7 @@ This dashboard provided a **data-driven approach** to optimize sales strategies 
 - **DAX** (Custom Metrics & Calculations)
 - **SQL** (Data Extraction & Cleaning)
 
+## 📊 Dashboard Preview
+![Blinkit Sales Dashboard](https://drive.google.com/file/d/1ihj_C43RH5Aesm539fy69PKzMF0aW9kf/export=view?usp=sharing)
+
+
