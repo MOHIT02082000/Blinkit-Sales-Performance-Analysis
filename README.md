@@ -35,6 +35,6 @@ This dashboard provided a **data-driven approach** to optimize sales strategies 
 - **SQL** (Data Extraction & Cleaning)
 
 ## 📊 Dashboard Preview
-![Blinkit Sales Dashboard](https://drive.google.com/file/d/1ihj_C43RH5Aesm539fy69PKzMF0aW9kf/export=view?usp=sharing)
+![Blinkit Sales Dashboard](https://github.com/MOHIT02082000/Blinkit-Sales-Performance-Analysis/blob/main/BlinkItSales.png)
 
 
